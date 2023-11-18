@@ -1,7 +1,7 @@
 
   -  Hi there 👋 I’m @KaleBurak (Burak Kale), newstarter in programming for a month.
   -  🌱 For now, I’m learning HTML & CSS.
-  -  🎡 Dedicated on continuous improvement
+  -  🎡 Dedicated on continuous improvement.
   -  💬 Open-minded for every kind of feedback.
   -  👀 Looking forward to hearing from you how to contribute on my way of coding. 🐱‍🏍🐱‍🏍
  

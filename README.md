@@ -1,4 +1,4 @@
-KaleBurak/README.md </br>
+
   -  Hi there 👋 I’m @KaleBurak (Burak Kale), newstarter in programming for a month.
   -  🌱 For now, I’m learning HTML & CSS.
   -  🎡 Dedicated on continuous improvement

@@ -3,7 +3,7 @@
   -  🌱 For now, I’m learning HTML & CSS.
   -  🎡 Dedicated on continuous improvement
   -  💬 Open-minded for every kind of feedback.
-  -  👀 Looking forward to hearing from you how to contribute on my way of coding.🐱‍🏍
+  -  👀 Looking forward to hearing from you how to contribute on my way of coding. 🐱‍🏍🐱‍🏍
  
 
      
